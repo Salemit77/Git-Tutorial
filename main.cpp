@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-	cout << "Hello world!" << endl;
+	cout << "gdsc is the best" << endl;
 
 	return 0;
 }
